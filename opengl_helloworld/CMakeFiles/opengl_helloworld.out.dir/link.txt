@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/opengl_helloworld.out.dir/opengl_helloworld.cpp.o  -o opengl_helloworld.out -lpthread /usr/local/lib/libglfw3.a -lGL -lglad -lpthread -lrt -lm -ldl -lX11 

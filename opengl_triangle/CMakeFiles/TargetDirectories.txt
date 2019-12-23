@@ -1,0 +1,3 @@
+/home/choyg/Desktop/workspace/opengl/opengl_triangle/CMakeFiles/rebuild_cache.dir
+/home/choyg/Desktop/workspace/opengl/opengl_triangle/CMakeFiles/opengl_triangle.out.dir
+/home/choyg/Desktop/workspace/opengl/opengl_triangle/CMakeFiles/edit_cache.dir

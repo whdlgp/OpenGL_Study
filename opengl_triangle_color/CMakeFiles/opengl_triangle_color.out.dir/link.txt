@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/opengl_triangle_color.out.dir/opengl_triangle_color.cpp.o  -o opengl_triangle_color.out -lpthread /usr/local/lib/libglfw3.a -lGL -lglad -lpthread -lrt -lm -ldl -lX11 

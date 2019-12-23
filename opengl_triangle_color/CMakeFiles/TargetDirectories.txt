@@ -1,0 +1,3 @@
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_triangle_color/CMakeFiles/rebuild_cache.dir
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_triangle_color/CMakeFiles/opengl_triangle_color.out.dir
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_triangle_color/CMakeFiles/edit_cache.dir

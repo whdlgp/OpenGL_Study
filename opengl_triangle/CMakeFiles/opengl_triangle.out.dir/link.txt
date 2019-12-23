@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/opengl_triangle.out.dir/opengl_triangle.cpp.o  -o opengl_triangle.out -lpthread /usr/local/lib/libglfw3.a -lGL -lglad -lpthread -lrt -lm -ldl -lX11 

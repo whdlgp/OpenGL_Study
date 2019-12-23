@@ -1,0 +1,3 @@
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_rectangle/CMakeFiles/rebuild_cache.dir
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_rectangle/CMakeFiles/opengl_rectangle.out.dir
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_rectangle/CMakeFiles/edit_cache.dir
