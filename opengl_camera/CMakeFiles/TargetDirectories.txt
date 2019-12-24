@@ -1,0 +1,3 @@
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_camera/CMakeFiles/rebuild_cache.dir
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_camera/CMakeFiles/opengl_camera.out.dir
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_camera/CMakeFiles/edit_cache.dir
