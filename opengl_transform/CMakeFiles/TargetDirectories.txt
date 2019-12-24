@@ -1,0 +1,3 @@
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_transform/CMakeFiles/rebuild_cache.dir
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_transform/CMakeFiles/opengl_transform.out.dir
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_transform/CMakeFiles/edit_cache.dir
