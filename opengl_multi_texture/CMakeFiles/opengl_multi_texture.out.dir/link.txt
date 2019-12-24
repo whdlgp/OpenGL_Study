@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/opengl_multi_texture.out.dir/Shader.cpp.o CMakeFiles/opengl_multi_texture.out.dir/main.cpp.o  -o opengl_multi_texture.out -lpthread /usr/local/lib/libglfw3.a -lGL -lglad -lpthread -lrt -lm -ldl -lX11 

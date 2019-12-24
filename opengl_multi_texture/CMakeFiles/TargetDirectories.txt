@@ -1,0 +1,3 @@
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_multi_texture/CMakeFiles/rebuild_cache.dir
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_multi_texture/CMakeFiles/opengl_multi_texture.out.dir
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_multi_texture/CMakeFiles/edit_cache.dir
