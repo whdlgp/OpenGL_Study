@@ -1,0 +1,3 @@
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_coord_system/CMakeFiles/rebuild_cache.dir
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_coord_system/CMakeFiles/opengl_coord_system.out.dir
+/home/choyg/Desktop/workspace/opengl/learnopengl/opengl_coord_system/CMakeFiles/edit_cache.dir

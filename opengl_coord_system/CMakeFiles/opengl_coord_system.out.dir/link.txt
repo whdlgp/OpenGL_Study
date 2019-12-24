@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/opengl_coord_system.out.dir/Shader.cpp.o CMakeFiles/opengl_coord_system.out.dir/main.cpp.o CMakeFiles/opengl_coord_system.out.dir/texture_loader.cpp.o  -o opengl_coord_system.out -lpthread /usr/local/lib/libglfw3.a -lGL -lglad -lpthread -lrt -lm -ldl -lX11 
